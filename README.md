@@ -23,4 +23,4 @@ OAuth 2.0 Device flow. Właściciel konta jednorazowo zatwierdza dostęp w przeg
 Aplikacja działa na komputerze firmowym, dostęp ma tylko właściciel konta. Client Secret i tokeny są przechowywane lokalnie i nie są nikomu przekazywane. Dane z Allegro nie są udostępniane osobom trzecim.
 
 ## 6. Dane kontaktowe
-MICHAŁ GEIDYK, NMICHAŁ GEIDYK – michal.giedyk.lfw@gmail.com
+MICHAŁ GEIDYK, MICHAŁ GEIDYK – michal.giedyk.lfw@gmail.com
