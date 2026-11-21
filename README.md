@@ -2,7 +2,7 @@
 allegro-app-docs-TopKoszykPL
 # wystawianie ofert 
 ## 1. Opis i cel
-Wewnętrzne narzędzie firmy NAZWA_FIRMY do wystawiania ofert na Allegro. Obsługuje wyłącznie własne konto Allegro firmy.
+Wewnętrzne narzędzie firmy Michał Giedyk do wystawiania ofert na Allegro. Obsługuje wyłącznie własne konto Allegro firmy.
 
 ## 2. Zakres funkcjonalny
 - wystawianie ofert,
